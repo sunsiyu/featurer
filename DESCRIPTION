@@ -1,0 +1,22 @@
+Package: featurer
+Type: Package
+Title: Bag of Tricks to Ease Feature Engineering
+Version: 0.0.0.9000
+Author: Siyu Sun <sunsiyu.tud@gmail.com>
+Maintainer: Siyu Sun <sunsiyu.tud@gmail.com>
+Description: Bag of Tricks to Ease Feature Engineering
+Depends:
+  R (>= 3.2.5)
+Imports:
+  stringr (>= 1.0.0),
+  stringdist (>= 0.9.4),
+  data.table (>= 1.9),
+  jsonlite (>= 0.9)
+Suggests:
+  testthat,
+  knitr,
+  rmarkdown
+License: file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: testthat
