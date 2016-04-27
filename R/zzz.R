@@ -1,2 +1,5 @@
+#' @importFrom  stringdist stringdist
 #' @import data.table
-invisible(NULL)
+#' @import caret
+#' @importFrom jsonlite fromJSON
+NULL
