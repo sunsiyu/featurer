@@ -25,6 +25,6 @@ printOneFeatureChecks(lmxburo)
 Siyu Sun
 }
 \seealso{
-Other print.checks: \code{\link{printFeaturePreChecks}}
+Other print checks: \code{\link{printFeaturePreChecks}}
 }
 

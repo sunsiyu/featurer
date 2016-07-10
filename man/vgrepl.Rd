@@ -4,7 +4,7 @@
 \alias{vgrepl}
 \title{vectorize grepl}
 \usage{
-vgrepl(vpattern, vx, operator = "or")
+vgrepl(vpattern, vx, operator = "or", ...)
 }
 \arguments{
 \item{vpattern}{vector of patterns}
