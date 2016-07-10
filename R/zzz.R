@@ -1,5 +1,6 @@
 #' @importFrom  stringdist stringdist
 #' @import data.table
-#' @import caret
+#' @import lubridate
+#' @import stringr
 #' @importFrom jsonlite fromJSON
 NULL
